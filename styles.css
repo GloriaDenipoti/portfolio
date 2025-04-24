@@ -82,6 +82,7 @@ header {
     transition: var(--transition);
 }
 
+
 .nav-link:hover {
     color: var(--primary-color);
 }
