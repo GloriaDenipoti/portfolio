@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     };
-    document.addEventListener('DOMContentLoaded', function () {
+    
         const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade');
     
         const aumentaFonteBotao = document.getElementById('aumentar-fonte');
@@ -209,7 +209,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
         })
     
-    })
     initParticles();
 
     const contactForm = document.getElementById('contact-form');
